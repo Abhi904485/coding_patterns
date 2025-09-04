@@ -1,0 +1,15 @@
+{
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "testExplorer.gutterDecoration": true,
+  "python.testing.autoTestDiscoverOnSaveEnabled": true,
+  "files.exclude": {
+    "**/.mypy_cache": true,
+    "**/.pytest_cache": true,
+    "**/__pycache__": true,
+    "**/htmlcov": true,
+    "**/.ruff_cache": true,
+    ".coverage": true,
+    "coverage.xml": true,
+  }
+}
