@@ -1,5 +1,5 @@
 import pytest
-from src.two_pointers.brute_force import find_target_some_pair
+from src.two_pointers.optimized import find_target_some_pair
 
 
 @pytest.mark.parametrize(
